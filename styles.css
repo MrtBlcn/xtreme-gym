@@ -1,0 +1,19 @@
+body{
+font-family: 'Alegreya', serif;
+font-family: 'Catamaran', sans-serif;
+font-family: 'Imbue', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Serif', serif;
+margin-top:0;
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+
+
+ }
+ /* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+ }
